@@ -34,7 +34,7 @@ var cookieInfoText = ["Udløb", "Domæne", "Dataansvarlig"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22360%22%20height=%2292%22%20viewBox=%220%200%20360%2092%22%3E%0A%20%20%3Crect%20width=%22360%22%20height=%2292%22%20rx=%2212%22%20fill=%22#ffffff%22/%3E%0A%20%20%3Cpath%20d=%22M24%2062%20C72%2034,%20116%2034,%20160%2061%20S252%2088,%20336%2048%22%20fill=%22none%22%20stroke=%22#00A6D6%22%20stroke-width=%225%22%20stroke-linecap=%22round%22%20opacity=%220.95%22/%3E%0A%20%20%3Cpath%20d=%22M50%2067%20C96%2047,%20126%2048,%20165%2066%20S246%2083,%20310%2058%22%20fill=%22none%22%20stroke=%22#77B82A%22%20stroke-width=%224%22%20stroke-linecap=%22round%22%20opacity=%220.95%22/%3E%0A%20%20%3Ctext%20x=%2224%22%20y=%2236%22%20font-family=%22Arial,%20Helvetica,%20sans-serif%22%20font-size=%2228%22%20font-weight=%22700%22%20fill=%22#0B1825%22%3ELykkeg%C3%A5rdens%3C/text%3E%0A%20%20%3Ctext%20x=%2224%22%20y=%2262%22%20font-family=%22Arial,%20Helvetica,%20sans-serif%22%20font-size=%2224%22%20font-weight=%22700%22%20fill=%22#00A6D6%22%3EB%C3%A5dservice%3C/text%3E%0A%20%20%3Ccircle%20cx=%22322%22%20cy=%2231%22%20r=%2212%22%20fill=%22#00A6D6%22%20opacity=%220.14%22/%3E%0A%20%20%3Cpath%20d=%22M292%2034%20h44%20l-10%2010%20h-24%20z%22%20fill=%22#0B1825%22%20opacity=%220.9%22/%3E%0A%3C/svg%3E";
+var websiteLogo = "https://lykkegaardensbaad.dk/wp-content/uploads/2026/03/logo-D76uVHYK-150x150.png"
 
 var logoWidth = "230";
 
