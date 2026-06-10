@@ -36,7 +36,7 @@ var bannerShowingDelayed = 0;
 
 var websiteLogo = "https://lykkegaardensbaad.dk/wp-content/uploads/2026/03/logo-D76uVHYK-150x150.png"
 
-var logoWidth = "230";
+var logoWidth = "90";
 
 var darkModeEnable = false;
 
